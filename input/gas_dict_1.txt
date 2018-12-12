@@ -1,0 +1,1 @@
+["OSP", "OSD", "ZUP", "SGT", "PWP", "Gaz-System", "kwh", "URE", "SWI", "IRiESP", "Europol", "email", "CEIDG", "remit", "Tietierowka", "TGE", "pln", "min"]
