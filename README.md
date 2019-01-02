@@ -1,4 +1,4 @@
-# Word Cloud for a Miner's Day
+# Word Cloud for Miner's Day
 
 1. Import libraries
 2. Paths
